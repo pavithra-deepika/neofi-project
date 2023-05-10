@@ -1,7 +1,7 @@
 import React from 'react'
-
+import Global from '@mui/styled-engine-sc/GlobalStyles/GlobalStyles'
 export default function Earn() {
   return (
-    <div>Earn</div>
+    <div class="earn">Earn</div>
   )
 }
