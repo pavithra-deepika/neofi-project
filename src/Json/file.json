@@ -1,0 +1,25 @@
+
+    [
+        {
+            "productId" : 101,
+            "productName":"ethereum",
+            "productPrice" : 215,
+            "investAmount": 0,
+            "estimateAmount":0
+        },
+        {
+            "productId" : 102,
+            "productName":"bitcoin",
+            "productPrice" : 89,
+            "investAmount": 0,
+            "estimateAmount":0
+        },
+        {
+            "productId" : 103,
+            "productName":"matic",
+            "productPrice" : 65,
+            "investAmount": 0,
+            "estimateAmount":0
+        }
+    ]
+  

@@ -105,6 +105,59 @@ a {
     color-scheme: dark;
   }
 }
-.trade{
+/* .trade{
   background-color: SlateBlue;
+} */
+input{
+  margin: 10px 0 0 0;
+  width: 84%;
+  min-height: 2em;
+}
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+#productName{
+  background-color: #1b1732;
+  border: 1px solid #1b1732;
+  color: #ffffff;
+}
+input
+ {
+  background-color: #1b1732;
+  border: 1px solid #1b1732;
+  color: #ffffff;
+}
+Button[type="submit"] {
+  /* display: blue; */
+  height: 2em;
+  font-size: 1.1rem;
+  color: white;
+  background-color: blue;
+  /* border-color: white; */
+  min-width: 250px;
+  border-radius: 15px;
+}
+.button{
+  background-color: linear-gradient(90deg, pink,green,rgb(0,0,204));
+
+}
+
+Button[type="submit"]:hover {
+  background-color: blue;
+  color: white;
+}
+
+.card{
+  background-color: #0b0819;
+}
+body{
+  font-style: white;
+}
+.trade{
+  background-color: #040406;
+}
+.navbar{
+  background-color: #040406;
 }
